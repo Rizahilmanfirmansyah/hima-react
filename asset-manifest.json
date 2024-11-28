@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hima-react/static/css/main.9c6b94e9.css",
+    "main.js": "/hima-react/static/js/main.f7dbbb3b.js",
+    "static/media/HIMATIF.png": "/hima-react/static/media/HIMATIF.54928625694b32d7aa11.png",
+    "index.html": "/hima-react/index.html",
+    "main.9c6b94e9.css.map": "/hima-react/static/css/main.9c6b94e9.css.map",
+    "main.f7dbbb3b.js.map": "/hima-react/static/js/main.f7dbbb3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6b94e9.css",
+    "static/js/main.f7dbbb3b.js"
+  ]
+}
